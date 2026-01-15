@@ -5,7 +5,7 @@ It does not provide financial, investment, or trading advice.
 
 The app uses third-party services for analytics, notifications, advertising, and support.
 
-- [Privacy Policy](./privacy)
-- [Terms of Use](./terms)
+- [Privacy Policy](./privacy.md)
+- [Terms of Use](./terms.md)
 
 © CoinRing
