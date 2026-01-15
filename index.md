@@ -2,7 +2,7 @@
 
 Legal documents:
 
-- [Privacy Policy](./privacy/privacy.md)
+- [Privacy Policy](./privacy.md)
 - [Terms of Use](./terms.md)
 
 _Last updated: January 15, 2026_
